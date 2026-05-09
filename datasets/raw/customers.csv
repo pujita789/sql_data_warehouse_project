@@ -1,0 +1,101 @@
+customer_id,customer_name,city,sign_up_date
+C001,Shawn Sanchez,Rachelville,2025-04-25
+C002,Raymond Pennington,North Carlaside,2026-04-26
+C003,Mrs. Jennifer Stevenson,Simpsonstad,2024-09-28
+C004,Jessica Cross,Port Mark,2025-09-19
+C005,Paul Jackson,South Edwin,2024-10-26
+C006,Darrell Deleon,South Aprilmouth,2026-04-26
+C007,Alicia Woods,New Kellyshire,2025-05-17
+C008,Anna Gray,Michaelstad,2024-09-18
+C009,Latoya Beck,Barberborough,2024-07-31
+C010,Rodney Fernandez,South Ashleyton,2025-09-17
+C011,Victoria Williams,Alexandrashire,2025-02-07
+C012,David Johnson,Millerton,2025-02-04
+C013,Lauren Clark,Jamesburgh,2025-10-28
+C014,Richard Robinson,North Leslie,2025-09-04
+C015,Catherine Alexander,Maryview,2024-12-14
+C016,Elizabeth Miller,Bradshawfort,2026-03-09
+C017,Jared Brooks,Lake Mary,2026-04-01
+C018,Jerome Pena,Taylorville,2024-07-27
+C019,Matthew Porter,New David,2025-05-19
+C020,Ronald Cantrell,Haleytown,2025-02-15
+C021,John Bradley,Burnettmouth,2026-04-08
+C022,Ashley Alexander,Danielport,2025-12-07
+C023,Danny Patel,East Johnburgh,2024-09-27
+C024,Mark Wilson,West Jason,2025-04-11
+C025,Joshua Thornton,Coleberg,2025-10-21
+C026,Michael Williams,Ginashire,2024-10-08
+C027,Christopher Torres,South Courtney,2024-09-11
+C028,Angela Shaw,Griffinland,2025-11-22
+C029,Jonathan Brown,Kirkchester,2025-09-02
+C030,Nicole Taylor,West Feliciaside,2024-06-08
+C031,Martha Scott,South Williamchester,2024-08-10
+C032,Joseph Wilson,Wilsonchester,2024-08-22
+C033,Cynthia Ibarra,Moniqueton,2024-05-16
+C034,Frances Henry,Wardchester,2024-08-30
+C035,Jennifer Young,Josephtown,2025-02-10
+C036,Amber Hernandez,West Amberhaven,2026-04-15
+C037,David Hopkins,North Jasonshire,2025-05-24
+C038,Evan Morales,Morganmouth,2025-06-25
+C039,Jasmine Herrera,North Lisafort,2024-11-28
+C040,Francis Cain,Myerstown,2024-11-05
+C041,Marco Shaw,East Elizabethport,2024-10-29
+C042,Christopher Poole,Port Stephen,2025-09-18
+C043,Victoria Vincent,Josechester,2025-09-10
+C044,Eugene Simpson,East Stevenmouth,2026-04-13
+C045,Megan Moran,Calderonville,2025-10-04
+C046,Kenneth Thompson,Kathleenton,2024-06-27
+C047,Alexander Lopez,Donaldfurt,2025-05-08
+C048,Tara Zavala,North Cheyenneport,2025-02-24
+C049,Sarah Jones,Justinmouth,2025-06-27
+C050,Jamie Larson,Reidton,2025-12-05
+C051,Felicia Estrada,Copelandfort,2026-03-01
+C052,Christopher Robinson,North Georgehaven,2024-06-24
+C053,Timothy Walker,Juliaton,2024-12-27
+C054,Angela Ho,Lake Michaelmouth,2024-11-01
+C055,Patricia White,Lake Douglas,2024-07-29
+C056,Dr. Richard Carr DDS,North Destinymouth,2025-01-23
+C057,Chase Brady,Zacharyview,2025-04-12
+C058,Cory Reynolds,Robertsmouth,2024-12-19
+C059,Benjamin Morton,Johnsonborough,2025-03-05
+C060,Todd English,Lake Taylorview,2025-10-28
+C061,Jillian Ramos,Buchananshire,2024-09-24
+C062,Valerie Watson,Stonemouth,2025-02-12
+C063,Mitchell Hernandez,Owensville,2024-10-02
+C064,Lisa Lang,Jameschester,2024-11-25
+C065,Jason Wright,Kathytown,2026-04-21
+C066,James Rivera,Davidton,2026-04-10
+C067,Jasmine Gray,Shahfort,2025-05-31
+C068,William Fernandez,North Ronniefurt,2025-02-27
+C069,Joshua Wells,Starkmouth,2025-01-30
+C070,Amber Vaughn,Randymouth,2025-04-11
+C071,Christopher Kirk,Greenmouth,2025-12-12
+C072,Jennifer Williams,Port Jonathan,2025-09-09
+C073,Frances Esparza,Isabelview,2026-02-25
+C074,Maria Anderson,North Patriciaburgh,2025-12-10
+C075,Jennifer Bryan,Evansfort,2025-08-09
+C076,Kevin Mccoy,Pattersonburgh,2026-03-04
+C077,Juan Watkins,West Manuel,2025-05-22
+C078,Danielle Melton,Grahamville,2025-10-08
+C079,Angela Hull,West Craigmouth,2024-07-05
+C080,Devon Tyler,Port Rachel,2024-07-06
+C081,Danielle Klein,South Mitchellview,2025-09-13
+C082,Anthony Mitchell,Armstrongberg,2025-03-07
+C083,Jennifer Edwards MD,Lake Jaymouth,2025-04-25
+C084,Richard Cook,West Zachary,2025-05-22
+C085,Brian Payne,East Eric,2025-09-20
+C086,Michael Wilson,Howardfurt,2025-12-02
+C087,Joyce Clark,South Christineside,2025-12-16
+C088,Benjamin Faulkner,South Amyfurt,2025-08-19
+C089,Samuel Munoz,New Joseph,2024-07-17
+C090,Julie Newman,East Jeffreyland,2025-04-02
+C091,Jake Hamilton,Harristown,2026-04-01
+C092,Miguel Vargas,West Adamhaven,2026-03-19
+C093,William Gutierrez,West Sabrinaview,2025-10-08
+C094,Elizabeth Davis,Lake Aliciaport,2025-12-04
+C095,Nathan Greene,North Autumn,2026-02-11
+C096,Jennifer Dixon,New Zachary,2025-02-25
+C097,Corey Johnson,Carolside,2025-12-04
+C098,Gabriel Whitney,Port Wayne,2024-08-28
+C099,Sarah Little,Josephstad,2025-10-12
+C100,Michelle Carroll,Escobarmouth,2024-05-19
